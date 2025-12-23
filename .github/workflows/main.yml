@@ -77,5 +77,5 @@ jobs:
           
           push: true
           
-          tags: ваш-логин-на-docker-hub/taski_backend:latest
+          tags: juniorabylai/taski_backend:latest
 
